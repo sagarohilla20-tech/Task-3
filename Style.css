@@ -1,6 +1,13 @@
+.head{
+    colour:darkblue;
+}
+
+
+
+
 #bglime{
     font-size:xx-large;
-    background-color: rgb(252, 0, 0);
+    background-color: limegreen;
 }
 
 
@@ -36,10 +43,12 @@ p{
 
 
 ol li:nth-child(2){
-    color:rgb(255, 0, 238);
+    color:rgb(68, 0, 255);
 }
 
 
 ol li:nth-child(3){
-    color:rgb(0, 255, 38);
+    color:rgb(255, 4, 0);
+}
+    color:rgb(255, 0, 238);
 }
